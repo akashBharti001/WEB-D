@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation {
+    height: 34px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content {
+    height: 95px;
+    background-color: blue;
+}
+
+.footer {
+    height: 50px;
+    background-color: bisque;
+}

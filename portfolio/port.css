@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+.sidebar{
+    background-color: red;
+    width: 10vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sidebar nav{
+    padding: 45px;
+}
+.sidebar nav li{
+    font-size: 30px;
+    list-style: none;
+    padding: 20px 0;
+}
+.main{
+    background-color: yellow;
+    width: 90vw;
+}
+.container{
+    display: flex;
+}
+.infocontainer{
+    background-color: red;
+    width: 80vw;
+    height: 78vh;
+    margin: 144px auto;
+}
